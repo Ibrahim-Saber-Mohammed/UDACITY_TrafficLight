@@ -1,0 +1,16 @@
+MCAL/TIMER2/TIMER2_program.o MCAL/TIMER2/TIMER2_program.o:  \
+ ../MCAL/TIMER2/TIMER2_program.c \
+  ../MCAL/TIMER2/../../LIB/STD_TYPES/STD_TYPES.h \
+  ../MCAL/TIMER2/../../LIB/BIT_MATH/BIT_MATH.h \
+  ../MCAL/TIMER2/TIMER2_interface.h ../MCAL/TIMER2/TIMER2_config.h \
+  ../MCAL/TIMER2/TIMER2_private.h
+
+../MCAL/TIMER2/../../LIB/STD_TYPES/STD_TYPES.h:
+
+../MCAL/TIMER2/../../LIB/BIT_MATH/BIT_MATH.h:
+
+../MCAL/TIMER2/TIMER2_interface.h:
+
+../MCAL/TIMER2/TIMER2_config.h:
+
+../MCAL/TIMER2/TIMER2_private.h:
